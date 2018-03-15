@@ -52,6 +52,11 @@ $ python specgan_categorical.py -i ./training_data.npz -o ./checkpoints -e 200
 -o path to a directory, where the script saves generated spectrogram images, audio and models  
 ```
 
+Generate Sounds
+---
+
+Once trained, you can use the trained models to generate random sounds and classify them. see [this jupyter notebook](https://github.com/naotokui/SpecGAN/blob/master/examples/generate-sound.ipynb).  
+
 Result
 ---
 
