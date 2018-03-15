@@ -59,7 +59,7 @@ In the training process, the script generates spectrogram images and audio from 
 
 If you are interested in how it actually sounds, please take look at this short video clip.  In this video, I tried to keep generating random drum sounds from random seeds, classifying them with a trained discriminator and replacing the sound in the drum kit. It ended up an ever-changing drum sequence.
 
-[GAN-808 Drum Machine (YouTube)](https://www.youtube.com/watch?v=z15mU3UORmo)
+[GAN-808 Drum Machine (YouTube)](https://www.youtube.com/watch?v=z15mU3UORmo)  
 ![go to youtube](https://i.ytimg.com/vi/z15mU3UORmo/hqdefault.jpg "how it works")
 
 
